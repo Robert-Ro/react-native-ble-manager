@@ -1,0 +1,280 @@
+{
+  "characteristics": [
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a00-0000-1000-8000-00805f9b34fb",
+      "service": "00001800-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a01-0000-1000-8000-00805f9b34fb",
+      "service": "00001800-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Write": "Write",
+        "Read": "Read"
+      },
+      "characteristic": "00002a02-0000-1000-8000-00805f9b34fb",
+      "service": "00001800-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Write": "Write"
+      },
+      "characteristic": "00002a03-0000-1000-8000-00805f9b34fb",
+      "service": "00001800-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a04-0000-1000-8000-00805f9b34fb",
+      "service": "00001800-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "descriptors": [
+        {
+          "value": null,
+          "uuid": "00002902-0000-1000-8000-00805f9b34fb"
+        }
+      ],
+      "properties": {
+        "Indicate": "Indicate"
+      },
+      "characteristic": "00002a05-0000-1000-8000-00805f9b34fb",
+      "service": "00001801-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a23-0000-1000-8000-00805f9b34fb",
+      "service": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a24-0000-1000-8000-00805f9b34fb",
+      "service": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a25-0000-1000-8000-00805f9b34fb",
+      "service": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a26-0000-1000-8000-00805f9b34fb",
+      "service": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a27-0000-1000-8000-00805f9b34fb",
+      "service": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a28-0000-1000-8000-00805f9b34fb",
+      "service": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a29-0000-1000-8000-00805f9b34fb",
+      "service": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a2a-0000-1000-8000-00805f9b34fb",
+      "service": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "00002a50-0000-1000-8000-00805f9b34fb",
+      "service": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "descriptors": [
+        {
+          "value": null,
+          "uuid": "00002901-0000-1000-8000-00805f9b34fb"
+        }
+      ],
+      "properties": {
+        "Write": "Write",
+        "Read": "Read"
+      },
+      "characteristic": "0000fff1-0000-1000-8000-00805f9b34fb",
+      "service": "0000fff0-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "descriptors": [
+        {
+          "value": null,
+          "uuid": "00002901-0000-1000-8000-00805f9b34fb"
+        }
+      ],
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
+      "service": "0000fff0-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "descriptors": [
+        {
+          "value": null,
+          "uuid": "00002901-0000-1000-8000-00805f9b34fb"
+        }
+      ],
+      "properties": {
+        "Write": "Write"
+      },
+      "characteristic": "0000fff3-0000-1000-8000-00805f9b34fb",
+      "service": "0000fff0-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "descriptors": [
+        {
+          "value": null,
+          "uuid": "00002902-0000-1000-8000-00805f9b34fb"
+        },
+        {
+          "value": null,
+          "uuid": "00002901-0000-1000-8000-00805f9b34fb"
+        }
+      ],
+      "properties": {
+        "Notify": "Notify"
+      },
+      "characteristic": "0000fff4-0000-1000-8000-00805f9b34fb",
+      "service": "0000fff0-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "descriptors": [
+        {
+          "value": null,
+          "uuid": "00002901-0000-1000-8000-00805f9b34fb"
+        }
+      ],
+      "properties": {
+        "Read": "Read"
+      },
+      "characteristic": "0000fff5-0000-1000-8000-00805f9b34fb",
+      "service": "0000fff0-0000-1000-8000-00805f9b34fb"
+    }
+  ],
+  "services": [
+    {
+      "uuid": "00001800-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "uuid": "00001801-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "uuid": "0000180a-0000-1000-8000-00805f9b34fb"
+    },
+    {
+      "uuid": "0000fff0-0000-1000-8000-00805f9b34fb"
+    }
+  ],
+  "advertising": {
+    "serviceUUIDs": [
+      "0000fff0-0000-1000-8000-00805f9b34fb"
+    ],
+    "txPowerLevel": 0,
+    "isConnectable": true,
+    "serviceData": {},
+    "localName": "GreatThing",
+    "manufacturerData": {
+      "bytes": [
+        2,
+        1,
+        6,
+        3,
+        2,
+        240,
+        255,
+        11,
+        9,
+        71,
+        114,
+        101,
+        97,
+        116,
+        84,
+        104,
+        105,
+        110,
+        103,
+        5,
+        18,
+        8,
+        0,
+        8,
+        0,
+        2,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "data": "AgEGAwLw/wsJR3JlYXRUaGluZwUSCAAIAAIKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+      "CDVType": "ArrayBuffer"
+    }
+  },
+  "name": "GreatThing",
+  "rssi": -90,
+  "id": "D0:5F:B8:3B:65:2D"
+}

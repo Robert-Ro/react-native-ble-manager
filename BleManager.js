@@ -196,7 +196,7 @@ class BleManager {
         serviceUUID,
         characteristicUUID,
         buffer,
-        error => {
+        (error) => {
           if (error) {
             reject(error);
           } else {

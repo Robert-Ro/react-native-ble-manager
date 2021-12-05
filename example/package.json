@@ -21,8 +21,9 @@
     "eslint": "7.14.0",
     "jest": "25.5.4",
     "metro-react-native-babel-preset": "0.59.0",
+    "react-native-codegen": "^0.0.8",
     "react-test-renderer": "16.13.1",
-    "react-native-codegen": "^0.0.8"
+    "react-native-ble-manager": "8.0.0"
   },
   "jest": {
     "preset": "react-native"
